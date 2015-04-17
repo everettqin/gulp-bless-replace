@@ -1,0 +1,40 @@
+{
+  "name": "gulp-bless-replace",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "repository": "everettqin/gulp-bless-replace",
+  "author": {
+    "name": "Everett Qin",
+    "email": "everett.qyf@gmail.com",
+    "url": ""
+  },
+  "maintainers": [
+    {
+      "name": "Everett Qin",
+      "email": "jeverett.qyf@gmail.com",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "bless",
+    "replace",
+    "asset",
+    "assets"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
